@@ -47,10 +47,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 4.) Scrolling down, we can see another text box where we have the option to post a reply or send a message to the User. We can pretend that the issue was looked into and resolved, and leave a message. Click the ticket status dropdown box and change the status from Open to Resolved. 
 
+![LB3 7](https://github.com/CGLuissi/ticket-lifecycle/assets/143234913/c57dd425-3dc0-4a0e-88f9-2505593a353c)
 
 
+![LB3 8](https://github.com/CGLuissi/ticket-lifecycle/assets/143234913/1452f19d-4a71-43ed-ae9c-749df441eadf)
 
-5.)
+
+5.) For our last ticket, log out of your admin account and log back in as an Agent. Make a ticket with Equipment Request as the help topic. Experiment with the SLA and priority as the agent and log back into the administrator account. You can change these settings back as the admin, and post a reply as well. When you are done, you should see that your tickets are no longer in the queue.   
+
 
 
 
